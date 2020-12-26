@@ -449,6 +449,7 @@ section#services {
     display: inline-block;
 }
 .service-box {
+	height: 1px;
 	padding: 25px;
 	border: 1px solid #fff;
 	margin-bottom: 30px;
@@ -1053,7 +1054,7 @@ header.page-header .main-menu.minified{
 }
 .teams-section{
 	position: relative;
-	padding: 10px 0 55px;
+	padding: 10px 0 30px;
 }
 
 
@@ -1072,7 +1073,7 @@ header.page-header .main-menu.minified{
     padding: 8px 10px;
 }
 
-.teams-section p{
+.p2{
     color: #ffffff;
 }
 
